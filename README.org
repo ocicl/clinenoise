@@ -1,0 +1,10 @@
+* clinenoise
+
+Straight port of linenoise to Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/jasom/clinenoise.git   |
+| commit  | 46e21f9  |
+| systems | clinenoise |
+|---------+-------------------------------------------|
+
